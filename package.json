@@ -1,0 +1,7 @@
+{
+  "name": "sharable-design-systems-root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

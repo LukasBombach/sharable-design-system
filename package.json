@@ -1,6 +1,9 @@
 {
   "name": "sharable-design-systems-root",
   "private": true,
+  "scripts": {
+    "dev": "yarn workspace app dev"
+  },
   "workspaces": [
     "packages/*"
   ]

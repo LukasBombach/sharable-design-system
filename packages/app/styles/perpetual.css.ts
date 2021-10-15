@@ -1,4 +1,3 @@
-import { createVar } from "@vanilla-extract/css";
 import { defineProperties, createSprinkles } from "@vanilla-extract/sprinkles";
 
 const layout = defineProperties({
@@ -15,3 +14,5 @@ const layout = defineProperties({
     },
   },
 });
+
+export const perpetual = createSprinkles(layout);

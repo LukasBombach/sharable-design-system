@@ -3,9 +3,8 @@ import { defineProperties, createSprinkles } from "@vanilla-extract/sprinkles";
 
 const layout = defineProperties({
   properties: {
-    display: ["inline", "block", "grid"],
-
-    /* {
+    gap: [10, 20, 30, 40],
+    layout: {
       stack: {
         display: "grid",
       },
@@ -13,11 +12,6 @@ const layout = defineProperties({
         display: "grid",
         gridAutoFlow: "column",
       },
-    }, */
-  },
-  shorthands: {
-    layout: ["paddingTop", "paddingBottom", "paddingLeft", "paddingRight"],
-    paddingX: ["paddingLeft", "paddingRight"],
-    paddingY: ["paddingTop", "paddingBottom"],
+    },
   },
 });

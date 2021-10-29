@@ -1,0 +1,21 @@
+/* .layout\:container {
+  display: grid;
+  grid-gap: var(--gap);
+} */
+
+:root {
+  --layout: ;
+}
+
+.layout\:container {
+  display: grid;
+  grid-gap: var(--gap);
+  grid-auto-flow: var(--flow);
+  grid-template-columns: repeat(var(--columns), 1fr);
+}
+
+.layout\:item {
+  display: grid;
+  align-items: var(--vertical-align);
+  justify-content: var(--horizontal-align);
+}

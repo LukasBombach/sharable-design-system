@@ -12,3 +12,37 @@
     grid-auto-flow: var(--layout-desktop, var(--layout));
   }
 }
+
+.layout\:stack {
+  display: grid;
+}
+
+.layout\:columns {
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-columns: repeat(var(--num-columns), 1fr);
+}
+
+.v-align\:top {
+  align-items: start;
+}
+
+.v-align\:center {
+  align-items: center;
+}
+
+.v-align\:bottom {
+  align-items: end;
+}
+
+.h-align\:top {
+  justify-content: start;
+}
+
+.h-align\:center {
+  justify-content: center;
+}
+
+.h-align\:bottom {
+  justify-content: end;
+}

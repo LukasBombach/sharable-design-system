@@ -71,3 +71,15 @@ other type of solutions
 css gets ugly, side effects, hard to navigate, you want a thing, but css does not give you the one answer for this
 
 tailwind -> it just works
+
+## what you want
+
+abstractions that
+
+- "just work"
+- support implementing your architecture
+
+## Naming things
+
+zero runtime should be zero cost abstraction
+utility first ist just an abstraction

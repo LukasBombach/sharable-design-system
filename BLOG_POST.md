@@ -35,3 +35,9 @@ This is some **bold** text.
 ```
 
 Now what these two have in common is that we need to annotate the text _inline_ with our style definitions. This works well for many use-cases, I personally find writing markdown very pleasing, but imagine having to implement entire web apps with inline annotations. Also, especially on the web, it would be harder to separate semantics from styles, which might affect accessibility on one way or another.
+
+Another way to do this is by separating these annotations from the text itself. This was already a practice before computers entered the stage. In publishing, as part of the [prepress](https://en.wikipedia.org/wiki/Prepress), typesetters could be given a sheet of styles that they would apply to the text when setting up the print.
+
+## Enter CSS
+
+Well, you now might already see where CSS is coming from. CSS spelled out, is Cascading _Style Sheets_. I know 🤯, right?

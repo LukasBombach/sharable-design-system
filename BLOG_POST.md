@@ -1,4 +1,4 @@
-# The problem we try to solve with CSS
+# The problem of CSS we try to solve
 
 In this post you will learn why CSS is designed the way it is and why this troubles the young and aspiring web devloper. We will be discussing the ways in which current CSS libraries solve these problems and why they still give you a subtle nausea here and there.
 

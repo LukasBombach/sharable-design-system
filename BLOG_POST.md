@@ -50,6 +50,51 @@ You might also get a feeling that CSS really is made for text documents, right? 
 
 ## Why CSS <del><em>is bad</em></del> does not fit our needs
 
+CSS is really great for (hyper) text documents. I mean _really_ great. With only a few lines of code, you can express so much.
+
+```css
+body {
+  font-size: 1.4rem;
+  color: #4c4c4c;
+}
+
+p {
+  font-size: 1rem;
+  padding-bottom: 1rem;
+}
+
+p + h2 {
+  padding-bottom: 2rem;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #000;
+}
+```
+
+little code for small bandwith, separates presentation from semantics, dynamic to content combinations
+
+but there are already so many problems for our
+
+# -- -- NOTES -- --
+
+## `X` types of problems
+
+To better navigate how to use CSS it helps to understand where you are stuck so you can get of of your stuckiness
+
+### The language is not specific to our domain
+
+The language often does not express our intend.
+
+A lot of things that _we_ do, like spacing things or centering can be done in many many ways. It's often unclear which properties there are to solve a problem and once you understand there are 5 different ways to do a things, it's even harder to make the right choice
+
+// todo work with a code example here, take spacing, there is padding, margin, flex and grid with gaps, there is positioning, relative and absolute.
+
+This is true for properties and it is true for selectors.
+
+# -- -- NOTES -- --
+
 two types of problems
 
 1. css gets ugly, side effects, hard to navigate, you want a thing, but css does not give you the one answer for this

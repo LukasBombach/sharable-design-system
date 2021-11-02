@@ -8,7 +8,7 @@ We all love to hate CSS just a little. It's gotten a bad rep lately—for good r
 
 [![toddbennings on twitter: "I'm CSS-Zen-Garden-old. The engineers have no idea WTF that is."](./zen-garden-old-tweet.png)](https://twitter.com/toddbennings/status/1445548636562071552)
 
-### A bit of history
+## A bit of history
 
 To understand why CSS is designed the way it is, we have to take a quick look at its history. In the olden days, the tech industry had to figure out how to display and store "rich text" on a computer. Rich text is text that allows styling words in bold or italic, adding "rich media" like images or videos and do layouting (i.e. determining text flow and placing things). The opposite of this is "plain text", which really can only show characters and does not provide any way to control the text layout of your text.
 

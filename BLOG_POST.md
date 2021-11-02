@@ -41,3 +41,9 @@ Another way to do this is by separating these annotations from the text itself. 
 ## Enter CSS
 
 Well, you now might already see where CSS is coming from. CSS spelled out, is Cascading _Style Sheets_. I know 🤯, right?
+
+You might also get a feeling that CSS really is made for text documents, right? While that might not completely hold true today, to my understanding, this is what the crux of
+
+[![KatyMontgomerie on twitter: "CSS is the worst programming language. Worse than PHP. So bad. Hate"](./css-worst-tweet.png)](https://twitter.com/KatyMontgomerie/status/1448047984642564104)
+
+<sub>\* (Tweet chosen at random by googling "css worst twitter")</sub>

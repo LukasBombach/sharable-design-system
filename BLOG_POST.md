@@ -49,3 +49,25 @@ You might also get a feeling that CSS really is made for text documents, right? 
 <sub>\* (Tweet chosen at random by googling "css worst twitter")</sub>
 
 ## Why CSS <del><em>is bad</em></del> does not fit our needs
+
+two types of problems
+
+1. css gets ugly, side effects, hard to navigate, you want a thing, but css does not give you the one answer for this
+2. scoping and architecture
+
+problem scoping
+
+many solutions
+
+bem, css modules, styled components and its derivates
+
+but this does not cut it
+
+next problem =
+we have compoenents but no architecture
+
+other type of solutions
+
+css gets ugly, side effects, hard to navigate, you want a thing, but css does not give you the one answer for this
+
+tailwind -> it just works

@@ -31,3 +31,5 @@ If I were to write the same text in Markdown, I would write
 ```markdown
 This is some **bold** text.
 ```
+
+Now what these two have in common is that we need to annotate the text _inline_ with our style definitions. This works well for many use-cases, I personally find writing markdown very pleasing, but imagine having to implement entire web apps with inline annotations. Also, especially on the web, it would be harder to separate semantics from styles, which might affect accessibility on one way or another.

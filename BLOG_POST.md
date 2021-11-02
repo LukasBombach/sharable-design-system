@@ -47,3 +47,5 @@ You might also get a feeling that CSS really is made for text documents, right? 
 [![KatyMontgomerie on twitter: "CSS is the worst programming language. Worse than PHP. So bad. Hate"](./css-worst-tweet.png)](https://twitter.com/KatyMontgomerie/status/1448047984642564104)
 
 <sub>\* (Tweet chosen at random by googling "css worst twitter")</sub>
+
+## Why CSS <del><em>is bad</em></del> does not fit our needs

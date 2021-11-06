@@ -1,3 +1,4 @@
+import "styles/tokens.css";
 import "styles/text.css";
 import type { AppProps } from "next/app";
 

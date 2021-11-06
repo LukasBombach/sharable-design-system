@@ -1,49 +1,49 @@
 .headline\:1 {
-  font-family: Roboto;
-  font-weight: bold;
-  font-size: 40px;
-  line-height: 120%;
-  color: #171b26;
+  font-family: var(--font-sans);
+  font-size: var(--scale-40px);
+  font-weight: var(--font-bold);
+  line-height: var(--line-120);
+  color: var(--color-salemsfur);
 }
 
 .headline\:2 {
-  font-family: Roboto;
-  font-weight: bold;
-  font-size: 24px;
-  line-height: 120%;
-  color: #171b26;
+  font-family: var(--font-sans);
+  font-size: var(--scale-24px);
+  font-weight: var(--font-bold);
+  line-height: var(--line-120);
+  color: var(--color-salemsfur);
 }
 
 .headline\:3 {
-  font-family: Roboto;
-  font-weight: bold;
-  font-size: 18px;
-  line-height: 120%;
-  color: #171b26;
+  font-family: var(--font-sans);
+  font-size: var(--scale-18px);
+  font-weight: var(--font-bold);
+  line-height: var(--line-120);
+  color: var(--color-salemsfur);
 }
 
 .headline\:4 {
-  font-family: Roboto;
-  font-weight: bold;
-  font-size: 14px;
-  line-height: 120%;
-  color: #171b26;
+  font-family: var(--font-sans);
+  font-size: var(--scale-14px);
+  font-weight: var(--font-bold);
+  line-height: var(--line-120);
+  color: var(--color-salemsfur);
 }
 
 .headline\:5 {
-  font-family: Roboto;
-  font-weight: bold;
-  font-size: 14px;
-  line-height: 120%;
-  color: #171b26;
+  font-family: var(--font-sans);
+  font-size: var(--scale-14px);
+  font-weight: var(--font-bold);
+  line-height: var(--line-120);
+  color: var(--color-salemsfur);
 }
 
 .headline\:6 {
-  font-family: Roboto;
-  font-weight: bold;
-  font-size: 12px;
-  line-height: 120%;
-  color: #171b26;
+  font-family: var(--font-sans);
+  font-size: var(--scale-12px);
+  font-weight: var(--font-bold);
+  line-height: var(--line-120);
+  color: var(--color-salemsfur);
 }
 
 /**
@@ -51,27 +51,26 @@
  * text-align: right
  */
 .text {
-  font-family: Roboto;
-  font-size: 16px;
-  line-height: 170%;
-  color: #474c59;
+  font-size: var(--scale-16px);
+  font-family: var(--font-sans);
+  line-height: var(--line-170);
+  color: var(--color-trout);
 }
 
 .text\:bold {
-  font-family: Roboto;
-  font-weight: bold;
-  font-size: 16px;
-  line-height: 170%;
-  color: #474c59;
+  font-family: var(--font-sans);
+  font-size: var(--scale-16px);
+  font-weight: var(--font-bold);
+  line-height: var(--line-170);
+  color: var(--color-trout);
 }
 
 .text\:grey {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 12px;
-  line-height: 120%;
-  color: #8d93a6;
+  font-family: var(--font-sans);
+  font-size: var(--scale-12px);
+  font-weight: var(--font-bold);
+  line-height: var(--line-120);
+  color: var(--color-manatee);
 }
 
 /**
@@ -79,37 +78,30 @@
  * text-align: right
  */
 .text\:light {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 12px;
-  line-height: 150%;
-  color: #8d93a6;
+  font-family: var(--font-sans);
+  font-size: var(--scale-12px);
+  line-height: var(--line-150);
+  color: var(--color-manatee);
 }
 
 .text\:small {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 12px;
-  line-height: 150%;
-  color: #171b26;
+  font-family: var(--font-sans);
+  font-size: var(--scale-12px);
+  line-height: var(--line-150);
+  color: var(--color-salemsfur);
 }
 
 .text\:extra-small {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 10px;
-  line-height: 120%;
-  color: #474c59;
+  font-family: var(--font-sans);
+  font-size: var(--scale-10px);
+  line-height: var(--line-120);
+  color: var(--color-trout);
 }
 
 .text\:magenta {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 14px;
-  line-height: 120%;
-  color: #e20074;
+  font-family: var(--font-sans);
+  font-size: var(--scale-14px);
+  font-weight: var(--font-bold);
+  line-height: var(--line-120);
+  color: var(--color-magenta);
 }

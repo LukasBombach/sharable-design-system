@@ -2,9 +2,9 @@ import type { NextPage } from "next";
 
 const Home: NextPage = () => {
   return (
-    <>
-      <div className="text:bold">x</div>
-    </>
+    <div className="container:width:page container:h-center">
+      <div className="width:page">x</div>
+    </div>
   );
 };
 

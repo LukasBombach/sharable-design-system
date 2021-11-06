@@ -1,0 +1,35 @@
+.container {
+}
+
+.width\:page {
+  display: grid;
+  grid-template-columns: var(--width-page);
+}
+
+.h-align\:center {
+  display: grid;
+}
+
+.v-align\:top {
+  align-items: start;
+}
+
+.v-align\:center {
+  align-items: center;
+}
+
+.v-align\:bottom {
+  align-items: end;
+}
+
+.h-align\:top {
+  justify-content: start;
+}
+
+.h-align\:center {
+  justify-content: center;
+}
+
+.h-align\:bottom {
+  justify-content: end;
+}

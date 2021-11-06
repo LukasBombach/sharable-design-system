@@ -27,3 +27,7 @@
   /* font weights */
   --font-bold: 700;
 }
+
+:root {
+  --width-page: 996px;
+}

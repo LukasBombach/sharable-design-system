@@ -1,35 +1,34 @@
-.container {
-}
-
-.width\:page {
+.w\:page {
   display: grid;
   grid-template-columns: var(--width-page);
 }
 
-.h-align\:center {
+.v\:top {
   display: grid;
-}
-
-.v-align\:top {
   align-items: start;
 }
 
-.v-align\:center {
+.v\:center {
+  display: grid;
   align-items: center;
 }
 
-.v-align\:bottom {
+.v\:bottom {
+  display: grid;
   align-items: end;
 }
 
-.h-align\:top {
+.h\:top {
+  display: grid;
   justify-content: start;
 }
 
-.h-align\:center {
+.h\:center {
+  display: grid;
   justify-content: center;
 }
 
-.h-align\:bottom {
+.h\:bottom {
+  display: grid;
   justify-content: end;
 }

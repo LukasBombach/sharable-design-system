@@ -1,4 +1,4 @@
-.headline\:1 {
+.h\:1 {
   font-family: var(--font-sans);
   font-size: var(--scale-40px);
   font-weight: var(--font-bold);
@@ -6,7 +6,7 @@
   color: var(--color-salemsfur);
 }
 
-.headline\:2 {
+.h\:2 {
   font-family: var(--font-sans);
   font-size: var(--scale-24px);
   font-weight: var(--font-bold);
@@ -14,7 +14,7 @@
   color: var(--color-salemsfur);
 }
 
-.headline\:3 {
+.h\:3 {
   font-family: var(--font-sans);
   font-size: var(--scale-18px);
   font-weight: var(--font-bold);
@@ -22,7 +22,7 @@
   color: var(--color-salemsfur);
 }
 
-.headline\:4 {
+.h\:4 {
   font-family: var(--font-sans);
   font-size: var(--scale-14px);
   font-weight: var(--font-bold);
@@ -30,7 +30,7 @@
   color: var(--color-salemsfur);
 }
 
-.headline\:5 {
+.h\:5 {
   font-family: var(--font-sans);
   font-size: var(--scale-14px);
   font-weight: var(--font-bold);
@@ -38,7 +38,7 @@
   color: var(--color-salemsfur);
 }
 
-.headline\:6 {
+.h\:6 {
   font-family: var(--font-sans);
   font-size: var(--scale-12px);
   font-weight: var(--font-bold);

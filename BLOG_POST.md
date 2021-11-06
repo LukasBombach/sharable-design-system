@@ -1,5 +1,9 @@
 # The problem of CSS we try to solve
 
+# The problem with CSS
+
+# Solving CSS
+
 In this post you will learn why CSS is designed the way it is and why this troubles the young and aspiring web devloper. We will be discussing the ways in which current CSS libraries solve these problems and why they still give you a subtle nausea here and there.
 
 ## CSS, the good, the bad and the ugly
@@ -76,6 +80,8 @@ h2 {
 little code for small bandwith, separates presentation from semantics, dynamic to content combinations
 
 but there are already so many problems for our
+
+inheritance in all the places, but that inheritance diverges from the code of our app (in js)
 
 # -- -- NOTES -- --
 

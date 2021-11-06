@@ -1,0 +1,115 @@
+.headline\:1 {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 120%;
+  color: #171b26;
+}
+
+.headline\:2 {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 120%;
+  color: #171b26;
+}
+
+.headline\:3 {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 120%;
+  color: #171b26;
+}
+
+.headline\:4 {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 120%;
+  color: #171b26;
+}
+
+.headline\:5 {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 120%;
+  color: #171b26;
+}
+
+.headline\:6 {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 120%;
+  color: #171b26;
+}
+
+/**
+ * allow
+ * text-align: right
+ */
+.text {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 170%;
+  color: #474c59;
+}
+
+.text\:bold {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 170%;
+  color: #474c59;
+}
+
+.text\:grey {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 120%;
+  color: #8d93a6;
+}
+
+/**
+ * allow
+ * text-align: right
+ */
+.text\:light {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 150%;
+  color: #8d93a6;
+}
+
+.text\:small {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 150%;
+  color: #171b26;
+}
+
+.text\:extra-small {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 120%;
+  color: #474c59;
+}
+
+.text\:magenta {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 120%;
+  color: #e20074;
+}

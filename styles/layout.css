@@ -1,6 +1,28 @@
+.layout\:cols {
+  display: grid;
+  grid-auto-flow: row;
+}
+
+.layout\:companion {
+  display: grid;
+  grid-template-columns: repeat(2, 12px) 221px repeat(2, 12px) 48px 633px 48px;
+  grid-template-areas: ". . companion . . . content .";
+}
+
+.layout\:place {
+  grid-area: var(--placement);
+}
+
+.layout\:companion\:companion {
+  grid-column: 2 / 5;
+}
+
+.layout\:companion\:content {
+  grid-column: 7 / 8;
+}
+
 .w\:page {
   display: grid;
-  grid-template-columns: var(--width-page);
 }
 
 .v\:top {

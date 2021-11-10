@@ -19,14 +19,8 @@ const Home: NextPage = () => {
   return (
     <div className="w:page h:center">
       <div className="layout:companion">
-        <Placeholder
-          className="layout:place"
-          style={{ "--placement": "companion" } as CSSProperties}
-        />
-        <Placeholder
-          className="layout:place"
-          style={{ "--placement": "content" } as CSSProperties}
-        />
+        <Placeholder className="layout:companion:place:companion" />
+        <Placeholder className="layout:companion:place:content" />
       </div>
     </div>
   );

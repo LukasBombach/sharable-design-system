@@ -9,8 +9,12 @@
   grid-template-areas: ". . companion . . . content .";
 }
 
-.layout\:place {
-  grid-area: var(--placement);
+.layout\:companion\:place\:companion {
+  grid-area: companion;
+}
+
+.layout\:companion\:place\:content {
+  grid-area: content;
 }
 
 .layout\:companion\:companion {
